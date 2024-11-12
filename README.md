@@ -3,7 +3,7 @@
 
  [![MasterHead](https://dianapps.com/blog/wp-content/uploads/2023/05/Untitled-design-75.png)
  
-<h3 align="center">For full-stack development, I generally develop with C#, Asp.Net Mvc, Asp.Net Core Mvc, MSSQL, MangoDB, Web Service API, Html, Css and JS technologies.
+<h3 align="center">For full-stack development, I generally develop with C#, Asp.Net Mvc, Asp.Net Core Mvc, MSSQL, MongoDB, Web Service API, Html, Css and JS technologies.
 I am also passionate about learning new technologies.
 
 </h3>
