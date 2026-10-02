@@ -3,9 +3,10 @@
 
  [![MasterHead](https://dianapps.com/blog/wp-content/uploads/2023/05/Untitled-design-75.png)
  
-<h3 align="center">For full-stack development, I generally develop with C#, Asp.Net Mvc, Asp.Net Core Mvc, MSSQL, MongoDB, Web Service API, Html, Css and JS technologies.
-I am also passionate about learning new technologies.
-
+<h3 align="center">
+  I am a Full-Stack Software Developer with over 2 years of experience in the .NET and React ecosystems.<br>
+  I specialize in developing scalable applications using C#, ASP.NET Core, React.js, RESTful APIs (JWT, SignalR), and modern databases like MSSQL, PostgreSQL, and Redis.<br>
+  I am passionate about writing Clean Code, adhering to SOLID principles, and utilizing tools like Docker to build sustainable projects.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
